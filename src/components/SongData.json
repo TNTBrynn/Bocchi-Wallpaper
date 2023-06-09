@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Guitar, Loneliness and Blue Planet",
+    "name": "50°",
     "backgroundColor": "#4C2633",
     "clockTextShadow": "3px 3px rgba(237, 112 ,154 ,.7)",
     "lineColor": "rgba(237, 112 ,154 ,.9)",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "That band",
+    "name": "70",
     "backgroundColor": "#0C3958",
     "clockTextShadow": "3px 3px rgba(26, 124 ,195 ,.7)",
     "lineColor": "rgba(26, 124 ,195 ,.9)",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "If I could be a constellation",
+    "name": "1000°",
     "backgroundColor": "#580D24",
     "clockTextShadow": "3px 3px rgba(232, 26 ,91 ,.7)",
     "lineColor": "rgba(232, 26 ,91,.9)",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Never forget",
+    "name": "Auburn",
     "backgroundColor": "#59420E",
     "clockTextShadow": "3px 3px rgba(247, 180 ,27 ,.7)",
     "lineColor": "rgba(247, 180 ,27 ,.9)",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "Secret base",
+    "name": "Billet",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "Rockn' Roll, Morning Light Falls on You",
+    "name": "Cinq doigts",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(237, 112 ,154,.7)",
     "lineColor": "rgba(237, 112 ,154,.9)",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "What is wrong with",
+    "name": "Decrescendo",
     "backgroundColor": "#59420E",
     "clockTextShadow": "3px 3px rgba(247, 180 ,27 ,.7)",
     "lineColor": "rgba(247, 180 ,27 ,.9)",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "I can't sing a love song",
+    "name": "Hasarder",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "name": "Karakara",
+    "name": "La vérité",
     "backgroundColor": "#0C3958",
     "clockTextShadow": "3px 3px rgba(26,124,195,.7)",
     "lineColor": "rgba(26,124,195 ,.9)",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "name": "The Little Sea",
+    "name": "Ma cousin",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "Seisyun Complex",
+    "name": "Maladie moderne",
     "backgroundColor": "#4D2E2C",
     "clockTextShadow": "3px 3px rgba(21, 6 ,37,.7)",
     "lineColor": "rgba(21,6,37,.9)",
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "name": "Distortion!!",
+    "name": "Mauvais ordre",
     "backgroundColor": "#580D22",
     "clockTextShadow": "3px 3px rgba(232,26,91,.7)",
     "lineColor": "rgba(232,26,91,.9)",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "name": "Flashbacker",
+    "name": "Pour de faux",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "name": "Hitoribocchi Tokyo",
+    "name": "Tee",
     "backgroundColor": "#4D2E2C",
     "clockTextShadow": "3px 3px rgba(21, 6 ,37,.7)",
     "lineColor": "rgba(21,6,37,.9)",
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "name": "I'm the Only Ghost",
+    "name": "X-men",
     "backgroundColor": "#40292F",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "name": "Into the Light",
+    "name": "À peu près",
     "backgroundColor": "#4E441A",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "name": "Blue Spring and Western Sky",
+    "name": "Évidemment",
     "backgroundColor": "#4E441A",
     "clockTextShadow": "3px 3px rgba(0, 0 ,0 ,.7)",
     "lineColor": "rgba(255, 255 ,255 ,.9)",

@@ -120,7 +120,7 @@ const Player = (props) => {
   React.useEffect(() => {
     audioRef.current.pause();
     audioRef.current = new Audio(
-      `./assets/songs/${SongData[props.songIndex].name}.flac`
+      `./assets/songs/${SongData[props.songIndex].name}.mp3`
     );
     audioRef.current.volume = volume;
     if (isReady.current) {
