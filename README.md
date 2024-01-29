@@ -1,3 +1,6 @@
+
+## THIS PROJECT WAS FORKED FROM THE ORIGINAL Bocchi-Wallpaper REP. CREDITS TO THE ORIGINAL CODER !! @OriginalCube
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,8 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
-If you have any bugs regarding this method please DM me.
 
 ~This version has repeat and shuffle, I haven't debug it yet so it might lead into problems if you ever use this. Please do use a previous version to be able to use this without any problem. :>
 
